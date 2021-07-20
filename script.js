@@ -1,6 +1,6 @@
 // Set starting life totals here
-let playerLife = 25;
-let monsterLife = 25;
+let playerLife = 15;
+let monsterLife = 15;
 
 // Message when the game is over
 let monsterWinnerMessage = "Game over: You were defeated!";
