@@ -24,6 +24,26 @@ let scenarios = [
     ]
   },
   {
+      monsterCard : {
+        description : "A race of scarecrows march across the land towards you",
+        power : 6,
+      },
+      playerCards : [
+        {
+          description : "Open your watch",
+          power : 9,
+        },
+        {
+          description : "Write a book about them!",
+          power : 3,
+        },
+        {
+          description : "Set them on fire and watch them burn!",
+          power : 4,
+        }
+      ]
+    }, 
+  {
     monsterCard : {
       description : "A strange thing begins to happen, people start developing second shadows",
       power : 7,
