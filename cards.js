@@ -15,7 +15,7 @@ let scenarios = [
       },
       {
         description : "Attack it with nuclear weapons",
-        power : 2,
+        power : -2,
       },
       {
         description : "Become friends with it",
@@ -39,7 +39,7 @@ let scenarios = [
         },
         {
           description : "Set them on fire and watch them burn!",
-          power : 4,
+          power : 1,
         }
       ]
     }, 
@@ -59,7 +59,7 @@ let scenarios = [
       },
       {
         description : "Make the person stand as still as possible, preferably in a dark room",
-        power : 2,
+        power : 1,
       }
     ]
   },
@@ -71,11 +71,11 @@ let scenarios = [
     playerCards : [
       {
         description : "Make a mark on your skin to remember you have seen it",
-        power : 5,
+        power : 3,
       },
       {
         description : "Turn away as quickly as possible",
-        power : 2,
+        power : 1,
       },
       {
         description : "Transmit a recording of one of the aliens telling people to attack them on sight",
@@ -86,7 +86,7 @@ let scenarios = [
   {
     monsterCard : {
       description : "Half robot half human beings appear all over the planet and begin to delete humans",
-      power : 7,
+      power : 3,
     },
     playerCards : [
       {
@@ -95,7 +95,7 @@ let scenarios = [
       },
       {
         description : "Shoot them with their own guns",
-        power : 3,
+        power : -2,
       },
       {
         description : "Bring a stronger race of robot aliens to fight them off ",
@@ -111,11 +111,11 @@ let scenarios = [
     playerCards : [
       {
         description : "Rally round everybody to make sure they're all in the safest place",
-        power : 2,
+        power : -2,
       },
       {
         description : "Help them capture the escaped convict they hunt ",
-        power : 7,
+        power : 9,
       },
       {
         description : "Tell them that you are the person they look for, and to let everyone else go",
@@ -132,7 +132,7 @@ let scenarios = [
     playerCards : [
       {
         description : "Don't blink!",
-        power : 5,
+        power : 6,
       },
       {
         description : "Trick the statues into looking directly at eachother",
@@ -140,7 +140,7 @@ let scenarios = [
       },
       {
         description : "Sonic them with your screwdriver!",
-        power : 2,
+        power : -2,
       }
     ]
   }, 
@@ -188,7 +188,7 @@ let scenarios = [
       {
       monsterCard : {
         description : "A robot hybrid creature appears, there seems to be only one of them!",
-        power : 8,
+        power : 5,
         },
       playerCards : [
         {
@@ -258,7 +258,7 @@ let scenarios = [
         },
         {
           description : "Give the child a cuddle!",
-          power : 3,
+          power : -3,
         },
         {
           description : "Find his Mummy",
