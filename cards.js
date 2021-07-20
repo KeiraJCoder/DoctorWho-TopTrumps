@@ -15,7 +15,7 @@ let scenarios = [
       },
       {
         description : "Attack it with nuclear weapons",
-        power : 3,
+        power : 2,
       },
       {
         description : "Become friends with it",
@@ -46,12 +46,12 @@ let scenarios = [
   {
     monsterCard : {
       description : "A strange alien being has been seen from the corner of your eye, with shock you realise you forgot they exist!",
-      power : 4,
+      power : 6,
     },
     playerCards : [
       {
         description : "Make a mark on your skin to remember you have seen it",
-        power : 3,
+        power : 5,
       },
       {
         description : "Turn away as quickly as possible",
@@ -59,7 +59,7 @@ let scenarios = [
       },
       {
         description : "Transmit a recording of one of the aliens telling people to attack them on sight",
-        power : 7,
+        power : 9,
       }
     ]
   },
@@ -75,7 +75,7 @@ let scenarios = [
       },
       {
         description : "Shoot them with their own guns",
-        power : 6,
+        power : 3,
       },
       {
         description : "Bring a stronger race of robot aliens to fight them off ",
@@ -86,7 +86,7 @@ let scenarios = [
   {
     monsterCard : {
       description : "A race of rhino people teleport the building you're in onto the moon",
-      power : 5,
+      power : 6,
     },
     playerCards : [
       {
@@ -107,12 +107,12 @@ let scenarios = [
   {
     monsterCard : {
       description : "Reports of statues moving in the local cemetary gets your attention",
-      power : 6,
+      power : 7,
     },
     playerCards : [
       {
         description : "Don't blink!",
-        power : 6,
+        power : 5,
       },
       {
         description : "Trick the statues into looking directly at eachother",
@@ -133,27 +133,27 @@ let scenarios = [
     playerCards : [
       {
         description : "Trust your companion to rescue you by telling stories, no matter how long it takes!",
-        power : 8,
+        power : 10,
       },
       {
         description : "Take advantage of the prime ministers insanity",
-        power : 4,
+        power : 3,
       },
       {
         description : "Use the death particle to wipe out all life on the planet",
-        power : 2,
+        power : -2,
       }
     ]
   }, 
   {
     monsterCard : {
       description : "A race of shape shifters take up residence on Earth",
-      power : 8,
+      power : 7,
     },
     playerCards : [
       {
         description : "Poison their milk supply to put them to sleep",
-        power : 8,
+        power : 7,
       },
       {
         description : "Detonate a nuclear weapon beneath London to destroy everyone!",
@@ -181,19 +181,19 @@ let scenarios = [
         },
         {
           description : "Get Donna to shout at them",
-          power : 2,
+          power : 1,
         }
       ]
       },
       {
       monsterCard : {
         description : "You encounter a crack in the wall of your new friends bedroom",
-        power : 5,
+        power : 8,
       },
       playerCards : [
         {
           description : "Open the crack wider to see whats inside",
-          power : 7,
+          power : 9,
         },
         {
           description : "Ignore it, its just a crack",
